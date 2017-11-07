@@ -1,3 +1,3 @@
 <?php
-Entonces que
+echo "Entonces que";
 ?>
